@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: cameltest
+server:
+  port: 8766
+
+camel:
+  springboot:
+    main-run-controller: true
+
+
